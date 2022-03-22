@@ -1,0 +1,36 @@
+  body {
+    background: url(https://pixabay.com/get/g1bb89b9bf07736871312ad3dfefe233164d0334cd30b791ced7e23677621c89a667e0a8af726f651ab0ce901b10420c1bd2dc54d19c52dcc3ed626483af49bfec1f63b4d9b064fa3ffd538df0bc0d0b0_1920.jpg)
+  }
+  h1 {color: aquamarine}
+  img {
+    width: 400px;
+  }
+  #thirdDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 600px;
+    background: peachpuff;
+    padding: 50px ;
+    border: 30px salmon;
+    border-radius: 12px;
+    border-style: inset;
+    margin:auto;
+  }
+  .divClass {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+  }
+  #spanId {
+    font-size: 18px;
+    margin: 50px
+  }
+
+  a {
+    margin:50px;
+    color:tan
+  }
